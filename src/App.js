@@ -4,7 +4,7 @@ import Text from "./components/Text";
 import Ratelist from "./components/Ratelist";
 import SubbmitButton from "./components/SubbmitButton";
 import ThankYou from "./components/ThankYou";
-import { useState, useEfect } from "react";
+import { useState } from "react";
 import { BrowserRouter as Router, Routes, Route } from "react-router-dom";
 
 function App() {
